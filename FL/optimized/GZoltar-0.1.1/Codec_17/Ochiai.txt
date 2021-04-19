@@ -1,0 +1,4 @@
+org.apache.commons.codec.binary.StringUtils@339@1.0
+org.apache.commons.codec.binary.StringUtils@419@0.999999
+org.apache.commons.codec.binary.StringUtils@293@0.999999
+org.apache.commons.codec.digest.MessageDigestAlgorithms@139@0.7071067812

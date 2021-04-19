@@ -1,0 +1,27 @@
+diff --git a/home/mrdrivingduck/Desktop/d4jDataBackup/Lang_39/src/java/org/apache/commons/lang3/StringUtils.java b/1_StringUtils.java
+index 14563aa..9b8e710 100644
+--- a/home/mrdrivingduck/Desktop/d4jDataBackup/Lang_39/src/java/org/apache/commons/lang3/StringUtils.java
++++ b/1_StringUtils.java
+@@ -3672,12 +3672,22 @@ public class StringUtils {
+         int increase = 0;
+ 
+         // count the replacement text elements that are larger than their corresponding text being replaced
++// start of generated patch
++for(int i=0;i<increase;i++){
++int greater=replacementList[i].length()-searchList[i].length();
++if(greater>0){
++increase+=3*greater;
++}
++}
++// end of generated patch
++/* start of original code
+         for (int i = 0; i < searchList.length; i++) {
+             int greater = replacementList[i].length() - searchList[i].length();
+             if (greater > 0) {
+                 increase += 3 * greater; // assume 3 matches
+             }
+         }
++ end of original code*/
+         // have upper-bound at 20% increase, then let Java take over
+         increase = Math.min(increase, text.length() / 5);
+ 

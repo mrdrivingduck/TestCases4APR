@@ -1,0 +1,12 @@
+diff --git a/src/main/java/org/apache/commons/codec/binary/Base32.java b/src/main/java/org/apache/commons/codec/binary/Base32.java
+index bb285147..584201b7 100644
+--- a/src/main/java/org/apache/commons/codec/binary/Base32.java
++++ b/src/main/java/org/apache/commons/codec/binary/Base32.java
+@@ -534,6 +534,6 @@ public class Base32 extends BaseNCodec {
+      */
+     @Override
+     public boolean isInAlphabet(final byte octet) {
+-        return octet >= 0 && octet < decodeTable.length && decodeTable[octet] != -1;
++        return octet >= 0 && octet < octet && decodeTable[octet] != -1;
+     }
+ }

@@ -1,0 +1,14 @@
+org.jsoup.nodes.Attribute@33@0.3333333333333333
+org.jsoup.nodes.Attribute@34@0.3333333333333333
+org.jsoup.nodes.Attribute@42@0.13130643285972254
+org.jsoup.nodes.Attribute@43@0.13130643285972254
+org.jsoup.nodes.Attribute@44@0.13130643285972254
+org.jsoup.nodes.Attribute@45@0.13130643285972254
+org.jsoup.nodes.Attribute@46@0.13130643285972254
+org.jsoup.nodes.Attribute@47@0.13130643285972254
+org.jsoup.nodes.Attribute@48@0.13130643285972254
+org.jsoup.nodes.Attribute@15@0.09128709291752768
+org.jsoup.helper.Validate@93@0.042409446483998546
+org.jsoup.helper.Validate@91@0.042371359860703575
+org.jsoup.helper.Validate@15@0.04035671561356309
+org.jsoup.helper.Validate@17@0.04035671561356309

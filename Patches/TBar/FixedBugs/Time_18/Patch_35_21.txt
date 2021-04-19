@@ -1,0 +1,12 @@
+diff --git a/src/main/java/org/joda/time/chrono/BasicChronology.java b/src/main/java/org/joda/time/chrono/BasicChronology.java
+index fe51678f..71b0ceca 100644
+--- a/src/main/java/org/joda/time/chrono/BasicChronology.java
++++ b/src/main/java/org/joda/time/chrono/BasicChronology.java
+@@ -602,7 +602,7 @@ abstract class BasicChronology extends AssembledChronology {
+     long getDateMidnightMillis(int year, int monthOfYear, int dayOfMonth) {
+         FieldUtils.verifyValueBounds(DateTimeFieldType.year(), year, getMinYear(), getMaxYear());
+         FieldUtils.verifyValueBounds(DateTimeFieldType.monthOfYear(), monthOfYear, 1, getMaxMonth(year));
+-        FieldUtils.verifyValueBounds(DateTimeFieldType.dayOfMonth(), dayOfMonth, 1, getDaysInYearMonth(year, monthOfYear));
++        FieldUtils.verifyValueBounds(DateTimeFieldType.dayOfMonth(), dayOfMonth, 1, getDaysInYearMonth(this.iMinDaysInFirstWeek, monthOfYear));
+         return getYearMonthDayMillis(year, monthOfYear, dayOfMonth);
+     }

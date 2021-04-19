@@ -1,0 +1,14 @@
+org.apache.commons.csv.CSVFormat@669@0.5773502692
+org.apache.commons.csv.CSVFormat@668@0.1601281538
+org.apache.commons.csv.CSVFormat@667@0.1601281538
+org.apache.commons.csv.CSVFormat@666@0.1601281538
+org.apache.commons.csv.CSVFormat@773@0.1443375673
+org.apache.commons.csv.CSVFormat@505@0.0860662966
+org.apache.commons.csv.CSVFormat@665@0.0645497224
+org.apache.commons.csv.CSVFormat@661@0.0641500299
+org.apache.commons.csv.CSVFormat@656@0.0633724251
+org.apache.commons.csv.CSVFormat@651@0.0626224291
+org.apache.commons.csv.CSVFormat@646@0.0622572806
+org.apache.commons.csv.CSVFormat@641@0.0618984461
+org.apache.commons.csv.CSVFormat@636@0.0615457455
+org.apache.commons.csv.CSVFormat@243@0.0560772154

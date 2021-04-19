@@ -1,0 +1,14 @@
+org.apache.commons.math.optimization.direct.BaseAbstractVectorialOptimizer@107@1.0
+org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer@128@1.0
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer@350@1.0
+org.apache.commons.math.optimization.direct.BaseAbstractVectorialOptimizer@141@1.0
+org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer@253@1.0
+org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer@43@1.0
+org.apache.commons.math.optimization.fitting.CurveFitter@160@1.0
+org.apache.commons.math.optimization.fitting.CurveFitter@126@1.0
+org.apache.commons.math.optimization.fitting.GaussianFitter@121@1.0
+org.apache.commons.math.exception.MathRuntimeException@114@0.5
+org.apache.commons.math.exception.MathRuntimeException@108@0.5
+org.apache.commons.math.exception.MathRuntimeException@102@0.5
+org.apache.commons.math.exception.util.MessageFactory@66@0.5
+org.apache.commons.math.exception.util.MessageFactory@65@0.5

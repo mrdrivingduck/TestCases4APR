@@ -1,0 +1,9 @@
+org.apache.commons.math3.distribution.MultivariateNormalDistribution@238@0.999999
+org.apache.commons.math3.distribution.MultivariateNormalDistribution@236@0.999999
+org.apache.commons.math3.distribution.MultivariateNormalDistribution@235@0.999999
+org.apache.commons.math3.distribution.MultivariateNormalDistribution@234@0.999999
+org.apache.commons.math3.distribution.MultivariateNormalDistribution@233@0.999999
+org.apache.commons.math3.distribution.MultivariateNormalDistribution@231@0.999999
+org.apache.commons.math3.distribution.MultivariateNormalDistribution@230@0.999999
+org.apache.commons.math3.distribution.MultivariateNormalDistribution@229@0.999999
+org.apache.commons.math3.distribution.MultivariateNormalDistribution@183@0.999999

@@ -1,0 +1,9 @@
+org.apache.commons.math3.complex.Complex@1228@1
+org.apache.commons.math3.complex.Complex@305@1
+org.apache.commons.math3.complex.Complex@304@0.4472135955
+org.apache.commons.math3.complex.Complex@300@0.4082482905
+org.apache.commons.math3.complex.Complex@348@0.15430335
+org.apache.commons.math3.complex.Complex@345@0.1490711985
+org.apache.commons.math3.complex.Complex@344@0.1490711985
+org.apache.commons.math3.complex.Complex@343@0.1458649915
+org.apache.commons.math3.complex.Complex@340@0.1259881577

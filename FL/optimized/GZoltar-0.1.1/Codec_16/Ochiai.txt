@@ -1,0 +1,13 @@
+org.apache.commons.codec.binary.Base32@309@1.0
+org.apache.commons.codec.binary.Base32@193@1.0
+org.apache.commons.codec.binary.Base32@537@0.999999
+org.apache.commons.codec.language.bm.NameType@28@0.2407717062
+org.apache.commons.codec.language.bm.NameType@51@0.1702513062
+org.apache.commons.codec.language.bm.NameType@28@0.1702513062
+org.apache.commons.codec.language.bm.Languages@203@0.1203858531
+org.apache.commons.codec.language.bm.Languages@175@0.1203858531
+org.apache.commons.codec.language.bm.Languages@174@0.1203858531
+org.apache.commons.codec.language.bm.Languages@172@0.1203858531
+org.apache.commons.codec.language.bm.Languages@171@0.1203858531
+org.apache.commons.codec.language.bm.RuleType@26@0.1203858531
+org.apache.commons.codec.language.bm.RuleType@26@0.1203858531

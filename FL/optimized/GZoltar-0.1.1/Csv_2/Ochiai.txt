@@ -1,0 +1,4 @@
+org.apache.commons.csv.CSVRecord@85@1.0
+org.apache.commons.csv.CSVRecord@84@0.999999
+org.apache.commons.csv.CSVRecord@80@0.999999
+org.apache.commons.csv.CSVFormat@342@0.1132277034

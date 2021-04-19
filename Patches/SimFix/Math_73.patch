@@ -1,0 +1,22 @@
+diff --git a/home/mrdrivingduck/Desktop/d4jDataBackup/Math_73/src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java b/1_BrentSolver.java
+index 8142b5e..29a8461 100644
+--- a/home/mrdrivingduck/Desktop/d4jDataBackup/Math_73/src/main/java/org/apache/commons/math/analysis/solvers/BrentSolver.java
++++ b/1_BrentSolver.java
+@@ -129,9 +129,17 @@ public class BrentSolver extends UnivariateRealSolverImpl {
+         }
+ 
+         // reduce interval if initial and max bracket the root
++// start of generated patch
++verifyBracketing(initial,max,f);
++if(yInitial*yMax<0){
++return solve(f,initial,yInitial,max,yMax,initial,yInitial);
++}
++// end of generated patch
++/* start of original code
+         if (yInitial * yMax < 0) {
+             return solve(f, initial, yInitial, max, yMax, initial, yInitial);
+         }
++ end of original code*/
+ 
+ 
+         // full Brent algorithm starting with provided initial guess

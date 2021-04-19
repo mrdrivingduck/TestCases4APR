@@ -1,0 +1,7 @@
+com.google.javascript.jscomp.ProcessClosurePrimitives@169@0.5
+com.google.javascript.jscomp.ProcessClosurePrimitives@174@0.5
+com.google.javascript.jscomp.ProcessClosurePrimitives@172@0.5
+com.google.javascript.jscomp.ProcessClosurePrimitives@165@0.5
+com.google.javascript.jscomp.ProcessClosurePrimitives@164@0.5
+com.google.javascript.jscomp.ProcessClosurePrimitives@302@0.5
+com.google.javascript.jscomp.ProcessClosurePrimitives@329@0.5

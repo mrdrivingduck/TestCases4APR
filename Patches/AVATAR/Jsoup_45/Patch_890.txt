@@ -1,0 +1,18 @@
+diff --git a/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java b/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+index 4a58fdf..2478d38 100644
+--- a/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
++++ b/src/main/java/org/jsoup/parser/HtmlTreeBuilder.java
+@@ -421,10 +421,10 @@ public class HtmlTreeBuilder extends TreeBuilder {
+             } else if ("html".equals(name)) {
+                 transition(HtmlTreeBuilderState.BeforeHead);
+                 break; // frag
+-            } else if (last) {
+-                transition(HtmlTreeBuilderState.InBody);
+-                break; // frag
+-            }
++            } else transition(HtmlTreeBuilderState.InBody);
++                break;
++
++
+         }
+     }

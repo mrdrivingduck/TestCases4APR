@@ -1,0 +1,6 @@
+org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool@48@1.0
+org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool@28@1.0
+org.mockito.internal.verification.checkers.MissingInvocationChecker@38@1.0
+org.mockito.internal.verification.Times@34@1.0
+org.mockito.internal.MockHandler@74@1.0
+org.mockito.internal.creation.MethodInterceptorFilter@46@1.0

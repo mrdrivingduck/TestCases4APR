@@ -1,0 +1,2 @@
+org.apache.commons.math.util.MathUtils@350@0.999999
+org.apache.commons.math.util.MathUtils@346@0.999999

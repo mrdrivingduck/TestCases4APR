@@ -1,0 +1,16 @@
+org.apache.commons.codec.language.bm.NameType@28@0.2335496832
+org.apache.commons.codec.language.bm.NameType@28@0.1906925178
+org.apache.commons.codec.language.bm.Languages@185@0.1348399725
+org.apache.commons.codec.language.bm.Languages@157@0.1348399725
+org.apache.commons.codec.language.bm.Languages@156@0.1348399725
+org.apache.commons.codec.language.bm.Languages@154@0.1348399725
+org.apache.commons.codec.language.bm.Languages@153@0.1348399725
+org.apache.commons.codec.language.bm.NameType@51@0.1348399725
+org.apache.commons.codec.language.DoubleMetaphone@893@0.1206045378
+org.apache.commons.codec.language.DoubleMetaphone@88@0.1019294383
+org.apache.commons.codec.language.DoubleMetaphone@244@0.0953462589
+org.apache.commons.codec.language.DoubleMetaphone@892@0.0635641726
+org.apache.commons.codec.language.DoubleMetaphone@891@0.0635641726
+org.apache.commons.codec.language.DoubleMetaphone@888@0.0603022689
+org.apache.commons.codec.language.DoubleMetaphone@87@0.0603022689
+org.apache.commons.codec.language.DoubleMetaphone@86@0.0603022689

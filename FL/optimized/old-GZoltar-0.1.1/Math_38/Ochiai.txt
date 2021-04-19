@@ -1,0 +1,10 @@
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer@1752@1.0
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer@407@1.0
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer@332@1.0
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer@244@1.0
+org.apache.commons.math.optimization.direct.BaseAbstractMultivariateOptimizer@125@1.0
+org.apache.commons.math.optimization.direct.BaseAbstractMultivariateSimpleBoundsOptimizer@138@1.0
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer@2457@0.999999
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer@2456@0.999999
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer@2455@0.999999
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer@2454@0.999999

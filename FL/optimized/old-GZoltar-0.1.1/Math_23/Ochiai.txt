@@ -1,0 +1,16 @@
+org.apache.commons.math3.optimization.univariate.BrentOptimizer@193@0.999999
+org.apache.commons.math3.optimization.univariate.BrentOptimizer@190@0.999999
+org.apache.commons.math3.optimization.univariate.BrentOptimizer@270@0.999999
+org.apache.commons.math3.optimization.univariate.BrentOptimizer@269@0.999999
+org.apache.commons.math3.optimization.univariate.BrentOptimizer@208@0.999999
+org.apache.commons.math3.optimization.univariate.BrentOptimizer@266@0.999999
+org.apache.commons.math3.optimization.univariate.BrentOptimizer@274@0.999999
+org.apache.commons.math3.analysis.FunctionUtils@141@0.5
+org.apache.commons.math3.analysis.function.StepFunction@99@0.5
+org.apache.commons.math3.analysis.function.StepFunction@96@0.5
+org.apache.commons.math3.analysis.function.StepFunction@90@0.5
+org.apache.commons.math3.analysis.function.StepFunction@89@0.5
+org.apache.commons.math3.analysis.function.StepFunction@87@0.5
+org.apache.commons.math3.analysis.function.StepFunction@85@0.5
+org.apache.commons.math3.analysis.function.StepFunction@84@0.5
+org.apache.commons.math3.optimization.univariate.BaseAbstractUnivariateOptimizer@66@0.5

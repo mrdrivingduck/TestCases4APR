@@ -1,0 +1,42 @@
+diff --git a/src/java/org/apache/commons/codec/language/Caverphone.java b/src/java/org/apache/commons/codec/language/Caverphone.java
+index 07122953..99c33bc3 100644
+--- a/src/java/org/apache/commons/codec/language/Caverphone.java
++++ b/src/java/org/apache/commons/codec/language/Caverphone.java
+@@ -165,7 +165,7 @@ public class Caverphone implements StringEncoder {
+      * @return The caverphone code corresponding to the String supplied
+      */
+     public String encode(String pString) {
+-        return caverphone(pString);   
++        return pString;   
+     }
+ 
+     /**
+diff --git a/src/java/org/apache/commons/codec/language/Metaphone.java b/src/java/org/apache/commons/codec/language/Metaphone.java
+index 88fea672..6c8d28fc 100644
+--- a/src/java/org/apache/commons/codec/language/Metaphone.java
++++ b/src/java/org/apache/commons/codec/language/Metaphone.java
+@@ -375,7 +375,7 @@ public class Metaphone implements StringEncoder {
+      * @return The metaphone code corresponding to the String supplied
+      */
+     public String encode(String pString) {
+-        return metaphone(pString);   
++        return pString;   
+     }
+ 
+     /**
+diff --git a/src/java/org/apache/commons/codec/language/SoundexUtils.java b/src/java/org/apache/commons/codec/language/SoundexUtils.java
+index 1c6b983a..4a631fe7 100644
+--- a/src/java/org/apache/commons/codec/language/SoundexUtils.java
++++ b/src/java/org/apache/commons/codec/language/SoundexUtils.java
+@@ -49,9 +49,9 @@ final class SoundexUtils {
+                 chars[count++] = str.charAt(i);
+             }
+         }
+-        if (count == len) {
+-            return str.toUpperCase();
+-        }
++        
++
++
+         return new String(chars, 0, count).toUpperCase(java.util.Locale.ENGLISH);
+     }

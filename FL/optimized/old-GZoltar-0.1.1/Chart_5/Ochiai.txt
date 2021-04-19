@@ -1,0 +1,7 @@
+org.jfree.data.xy.XYSeries@564@1.0
+org.jfree.data.xy.XYSeries@527@1.0
+org.jfree.data.xy.XYSeries@570@0.999999
+org.jfree.data.xy.XYSeries@563@0.999999
+org.jfree.data.xy.XYSeries@575@0.999999
+org.jfree.data.xy.XYSeries@574@0.999999
+org.jfree.data.xy.XYSeries@548@0.999999

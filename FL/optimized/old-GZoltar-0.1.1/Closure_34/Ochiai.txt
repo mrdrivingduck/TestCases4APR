@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CodeGenerator@102@1.0
+com.google.javascript.jscomp.CodeGenerator@891@1.0
+com.google.javascript.jscomp.CodeGenerator@122@1.0
+com.google.javascript.jscomp.NodeUtil@2147@0.5
+com.google.javascript.jscomp.NodeUtil@1196@0.5

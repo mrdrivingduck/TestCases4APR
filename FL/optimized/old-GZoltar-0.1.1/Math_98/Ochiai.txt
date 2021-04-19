@@ -1,0 +1,7 @@
+org.apache.commons.math.linear.BigMatrixImpl@997@1.0
+org.apache.commons.math.linear.RealMatrixImpl@786@1.0
+org.apache.commons.math.linear.BigMatrixImpl@995@0.999999
+org.apache.commons.math.linear.BigMatrixImpl@994@0.999999
+org.apache.commons.math.linear.BigMatrixImpl@993@0.999999
+org.apache.commons.math.linear.BigMatrixImpl@992@0.999999
+org.apache.commons.math.linear.BigMatrixImpl@991@0.999999

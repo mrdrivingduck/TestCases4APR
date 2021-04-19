@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/jsoup/nodes/Entities.java b/src/main/java/org/jsoup/nodes/Entities.java
+index 6ccb84e..43a60b9 100644
+--- a/src/main/java/org/jsoup/nodes/Entities.java
++++ b/src/main/java/org/jsoup/nodes/Entities.java
+@@ -112,7 +112,7 @@ public class Entities {
+                         accum.append("&amp;");
+                         break;
+                     case 0xA0:
+-                        if (escapeMode != EscapeMode.xhtml)
++                        if (escapeMode == EscapeMode.xhtml)
+                             accum.append("&nbsp;");
+                         else
+                             accum.append(c);

@@ -1,0 +1,11 @@
+org.jsoup.nodes.Attribute@73@0.5773502692
+org.jsoup.nodes.Attribute@72@0.5773502692
+org.jsoup.nodes.Attribute@67@0.5773502692
+org.jsoup.nodes.Attribute@66@0.5
+org.jsoup.nodes.Attribute@65@0.5
+org.jsoup.nodes.Attribute@64@0.5
+org.jsoup.nodes.Attribute@88@0.2581988897
+org.jsoup.helper.Validate@93@0.0422954934
+org.jsoup.helper.Validate@91@0.0422200331
+org.jsoup.helper.Validate@17@0.0401933936
+org.jsoup.helper.Validate@15@0.0401609664

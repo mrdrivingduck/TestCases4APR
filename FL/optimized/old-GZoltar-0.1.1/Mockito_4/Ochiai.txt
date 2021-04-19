@@ -1,0 +1,7 @@
+org.mockito.exceptions.Reporter@434@1.0
+org.mockito.exceptions.Reporter@677@1.0
+org.mockito.exceptions.Reporter@671@1.0
+org.mockito.exceptions.Reporter@424@1.0
+org.mockito.internal.verification.NoMoreInteractions@24@1.0
+org.mockito.internal.MockitoCore@113@1.0
+org.mockito.Mockito@1674@1.0

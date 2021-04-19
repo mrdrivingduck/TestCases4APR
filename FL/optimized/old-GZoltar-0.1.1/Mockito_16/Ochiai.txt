@@ -1,0 +1,9 @@
+org.mockito.exceptions.Reporter@77@1.0
+org.mockito.internal.MockitoCore@43@1.0
+org.mockito.internal.MockitoCore@56@1.0
+org.mockito.Mockito@994@1.0
+org.mockito.internal.stubbing.defaultanswers.ReturnsMocks@27@0.5
+org.mockito.internal.stubbing.defaultanswers.ReturnsMocks@36@0.5
+org.mockito.internal.stubbing.defaultanswers.ReturnsMocks@32@0.5
+org.mockito.internal.creation.jmock.ClassImposterizer@65@0.5
+org.mockito.internal.MockitoCore@32@0.5

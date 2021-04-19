@@ -1,0 +1,8 @@
+org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet@136@1.0
+org.apache.commons.math3.geometry.partitioning.AbstractRegion@381@1.0
+org.apache.commons.math3.geometry.partitioning.BSPTree@263@1.0
+org.apache.commons.math3.geometry.partitioning.BSPTree@262@1.0
+org.apache.commons.math3.geometry.partitioning.BSPTree@264@1.0
+org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet@118@1.0
+org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet@330@0.5
+org.apache.commons.math3.geometry.partitioning.utilities.AVLTree@167@0.5

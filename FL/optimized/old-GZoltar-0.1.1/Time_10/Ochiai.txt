@@ -1,0 +1,16 @@
+org.joda.time.field.FieldUtils@220@1.0
+org.joda.time.field.PreciseDurationDateTimeField@78@1.0
+org.joda.time.chrono.BaseChronology@240@1.0
+org.joda.time.base.BaseSingleFieldPeriod@104@1.0
+org.joda.time.Days@141@1.0
+org.joda.time.Months@161@1.0
+org.joda.time.Days@142@0.999999
+org.joda.time.Days@135@0.999999
+org.joda.time.Months@162@0.999999
+org.joda.time.Months@155@0.999999
+org.joda.time.IllegalFieldValueException@314@0.5
+org.joda.time.Duration@166@0.5
+org.joda.time.Duration@163@0.5
+org.joda.time.DateTimeUtils@86@0.5
+org.joda.time.tz.DefaultNameProvider@89@0.5
+org.joda.time.base.BaseSingleFieldPeriod@105@0.5

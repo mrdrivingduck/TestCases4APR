@@ -1,0 +1,21 @@
+diff --git a/source/org/jfree/data/category/DefaultIntervalCategoryDataset.java b/source/org/jfree/data/category/DefaultIntervalCategoryDataset.java
+index 2efdfcb..cd81088 100644
+--- a/source/org/jfree/data/category/DefaultIntervalCategoryDataset.java
++++ b/source/org/jfree/data/category/DefaultIntervalCategoryDataset.java
+@@ -571,12 +571,15 @@ public class DefaultIntervalCategoryDataset extends AbstractSeriesDataset
+      */
+     public int getCategoryIndex(Comparable category) {
+         int result = -1;
+-        for (int i = 0; i < this.categoryKeys.length; i++) {
++        if (this.categoryKeys != null) {
++	for (int i = 0; i < this.categoryKeys.length; i++) {
+             if (category.equals(this.categoryKeys[i])) {
+                 result = i;
+                 break;
+             }
+-        }
++        }
++	}
++
+         return result;
+     }

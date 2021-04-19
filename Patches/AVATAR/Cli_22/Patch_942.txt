@@ -1,0 +1,13 @@
+diff --git a/src/java/org/apache/commons/cli/PosixParser.java b/src/java/org/apache/commons/cli/PosixParser.java
+index 47ad0f7..bbdd5b7 100644
+--- a/src/java/org/apache/commons/cli/PosixParser.java
++++ b/src/java/org/apache/commons/cli/PosixParser.java
+@@ -203,7 +203,7 @@ public class PosixParser extends Parser
+      */
+     private void processOptionToken(String token, boolean stopAtNonOption)
+     {
+-        if (stopAtNonOption && !options.hasOption(token))
++        if (stopAtNonOption)
+         {
+             eatTheRest = true;
+         }

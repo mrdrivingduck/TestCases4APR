@@ -1,0 +1,13 @@
+org.apache.commons.lang.StringEscapeUtils@505@0.999999
+org.apache.commons.lang.StringEscapeUtils@504@0.999999
+org.apache.commons.lang.StringEscapeUtils@501@0.999999
+org.apache.commons.lang.StringEscapeUtils@498@0.999999
+org.apache.commons.lang.StringEscapeUtils@461@0.999999
+org.apache.commons.lang.StringEscapeUtils@460@0.999999
+org.apache.commons.lang.StringEscapeUtils@459@0.999999
+org.apache.commons.lang.StringEscapeUtils@455@0.999999
+org.apache.commons.lang.Entities@834@0.5
+org.apache.commons.lang.Entities@833@0.5
+org.apache.commons.lang.Entities@832@0.5
+org.apache.commons.lang.Entities@961@0.5
+org.apache.commons.lang.Entities@831@0.5

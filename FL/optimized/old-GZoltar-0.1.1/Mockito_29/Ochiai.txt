@@ -1,0 +1,13 @@
+org.mockito.internal.matchers.Same@29@1.0
+org.mockito.internal.matchers.LocalizedMatcher@33@1.0
+org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool@48@1.0
+org.mockito.internal.verification.argumentmatching.ArgumentMatchingTool@28@1.0
+org.mockito.internal.verification.checkers.MissingInvocationChecker@37@1.0
+org.mockito.internal.verification.Times@35@1.0
+org.mockito.internal.verification.MockAwareVerificationMode@21@1.0
+org.mockito.internal.MockHandler@80@1.0
+org.mockito.internal.creation.MethodInterceptorFilter@47@1.0
+org.mockito.internal.matchers.Same@37@0.5
+org.mockito.Matchers@525@0.5
+org.mockito.internal.matchers.Same@40@0.5
+org.mockito.internal.matchers.Same@35@0.5
